@@ -78,6 +78,11 @@ be outlined.
     <li>Visual representations of the database architecture and flow chart processes</li>
 </ul>
 
+[requirements](requirements)
+<ul>
+    <li>The modules required to run the scripts provided</li>
+</ul>
+
 
 ## Database Architecture 📅
 The database diagram was created on [dbdiagram.io](https://dbdiagram.io/) and is as follows:

@@ -1,0 +1,16 @@
+Flask==2.0.1
+Flask-MySQLdb==0.2.0
+numpy==1.19.5
+pandas==1.1.5
+pyyaml==5.4.1
+SQLAlchemy==1.4.25
+PyMySQL==1.0.2
+pandasql==0.7.3
+scikit-learn==0.24.2
+xgboost==1.5.1
+keras==2.7.0
+tensorflow==2.6.2
+matplotlib==3.3.4
+seaborn==0.11.2
+dalex==1.4.1
+ggplot==0.11.5
