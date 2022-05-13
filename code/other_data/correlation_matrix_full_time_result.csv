@@ -1,0 +1,6 @@
+,s_points_home,l5_points_home,s_points_away,l5_points_away,full_time_result
+s_points_home,1,0.388,0.655,-0.053,-0.053
+l5_points_home,0.388,1,-0.052,-0.183,-0.155
+s_points_away,0.655,-0.052,1,0.384,0.109
+l5_points_away,-0.053,-0.183,0.384,1,0.269
+full_time_result,-0.053,-0.155,0.109,0.269,1
