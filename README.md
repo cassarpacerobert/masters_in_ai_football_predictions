@@ -117,6 +117,12 @@ Similarly, this diagram shows how the model utilising artificial intelligence an
 Upon running both models, computations regarding correct prediction rates and monetary returns are computed. Through
 these values one should be able to clearly determine the best performing model accordingly.
 
+## System Architecture Diagram 🏢
+<img alt="BetStats PD vs AI Flow Chart" src="diagrams/system_architecture.jpg" width="75%">
+
+The diagram above showcases the system architecture diagram. It also visualises the flow represented in the previously 
+illustrated flow charts.
+
 ## Conclusion 👋🏼
 The above documentation should have been able to provide users reading this documentation with a generic understanding 
 as to how this project functions. For more detailed information regarding development, refer to the respective jupyter
