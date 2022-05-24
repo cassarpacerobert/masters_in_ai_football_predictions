@@ -75,7 +75,7 @@ be outlined.
 
 [diagrams](diagrams)
 <ul>
-    <li>Visual representations of the database architecture and flow chart processes</li>
+    <li>Visual representations of the system architecture, database architecture and flow chart processes</li>
 </ul>
 
 [requirements](requirements)
